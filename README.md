@@ -4,14 +4,11 @@ This is the open source code of the paper [**“GRADIENT-BASED DIMENSIONALITY RE
 
 Please kindly cite the paper if it helps your research:
 ```bibtex
-@INPROCEEDINGS{Wang24_GBDR,
-  author    = {H.~Wang and P.~Vadakkepat},
-  booktitle = {ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title     = {Gradient-Based Dimensionality Reduction for Speech Emotion Recognition Using Deep Networks},
-  address   = {Seoul, Korea, Republic of},
-  year      = {2024},
-  volume    = {},
-  number    = {},
-  pages     = {11496-11500},
-  doi       = {10.1109/ICASSP48485.2024.10447616}
+@inproceedings{wang2024gradient,
+  title={Gradient-based dimensionality reduction for speech emotion recognition using deep networks},
+  author={Wang, Hongxuan and Vadakkepat, Prahlad},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={11496--11500},
+  year={2024},
+  organization={IEEE}
 }
