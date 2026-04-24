@@ -8,7 +8,7 @@ Please kindly cite the paper if it helps your research:
   author    = {H.~Wang and P.~Vadakkepat},
   booktitle = {ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title     = {Gradient-Based Dimensionality Reduction for Speech Emotion Recognition Using Deep Networks},
-  address   = {Seoul, Korea, Republic of}
+  address   = {Seoul, Korea, Republic of},
   year      = {2024},
   volume    = {},
   number    = {},
